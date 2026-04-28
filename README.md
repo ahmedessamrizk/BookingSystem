@@ -6,7 +6,7 @@ A production-style Spring Boot REST API for managing room reservations with auth
 
 ## 🔗 Quick Links
 
-* 📚 API Documentation: [https://your-netlify-link.netlify.app](https://booking-system-api-e52f39.netlify.app/)
+* 📚 API Documentation: [Docs](https://booking-system-api-e52f39.netlify.app/)
 
 ---
 
